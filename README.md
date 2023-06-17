@@ -1,7 +1,5 @@
-### Hi there 👋 
 
 <h1 align="center">Hi 👋, I'm Hemath</h1>
-<h3 align="center">I am a Data Scientist</h3>
 
 - 🌱 I’m currently learning **TensorFlow, Computer Vision & NLP**
 
