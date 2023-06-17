@@ -1,4 +1,4 @@
-### Hi there 👋 :tada:
+### Hi there 👋 
 
 <h1 align="center">Hi 👋, I'm Hemath</h1>
 <h3 align="center">I am a Data Scientist</h3>
